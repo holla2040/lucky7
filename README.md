@@ -23,4 +23,5 @@ Features
 
 Fully populated and tested board is available for $20 + shipping.  Contact holla2040@gmail.com for more information.
 
-<img src='http://www.spudcentral.com/potd/141112-07.jpg'>, only 10 available, order now!
+<img src='http://www.spudcentral.com/potd/141112-07.jpg'><br>
+Only 10 available, order now!
