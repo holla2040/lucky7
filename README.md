@@ -12,7 +12,7 @@ Features<br>
 7. ATO fuse holder for wire protection in case of shorts to ground.<br>
 8. Hardware design and firmware are released CC-BY-SA<br>
 <br>
-Fully populated and tested board is available for $20 + shipping.  Contact holla2040@gmail.com for more information.
+Fully populated and tested board is available for $20 + shipping.  Contact holla@montrosemakerspace.com for more information.
 <br>
 <img src='http://www.spudcentral.com/potd/141112-07.jpg'><br>
 Only 10 available, order now!
