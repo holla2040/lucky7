@@ -1,7 +1,7 @@
 Lucky7
 ======
 
-7-Output Power Control Arduino Shield with sensor inputs and IR sensor<br>
+7-Output Power Control Arduino Shield with sensor inputs and IR sensor<br><br>
 Features<br>
 1. 7 high-current (12A max) P-channel high-side MOSFETs with gate drivers. These switches have 30mOhm Rds when on. Each output has an LED indicator. 6 of the outputs are PWM controllable.<br>
 2. The shield can operate up to 30VDC and supplies this voltage to the Arduino board.<br>
