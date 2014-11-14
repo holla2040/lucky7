@@ -22,3 +22,5 @@ Features
 8. Hardware design and firmware are released CC-BY-SA
 
 Fully populated and tested board is available for $20 + shipping.  Contact holla2040@gmail.com for more information.
+
+<img src='http://www.spudcentral.com/potd/141112-07.jpg'>, only 10 available, order now!
